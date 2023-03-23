@@ -34,7 +34,7 @@ Nếu điều này do bạn thực hiện, hãy sử dụng nút <b>Đăng nhậ
 Hãy thử lại sau."</string>
     <string name="auth_finalize">"Thiết bị của bạn đang kết nối với Google để lưu thông tin vào tài khoản của bạn.
 
-Điều này có thể mất vài phút."</string>
+Điều này có thể mất vài phút..."</string>
     <string name="perm_status_broadcast_label">nghe tình trạng nội bộ của các chương trình phát sóng</string>
     <string name="perm_c2dm_receive_label">nghe tin nhắn C2DM</string>
     <string name="perm_c2dm_send_label">gửi tin nhắn C2DM đến các ứng dụng khác</string>

@@ -32,5 +32,5 @@
 
     <Preference
         android:selectable="false"
-        android:summary="Google account settings not yet implemented."/>
+        android:summary="Google account settings not implemented yet :("/>
 </PreferenceScreen>

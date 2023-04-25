@@ -40,6 +40,11 @@ Isso pode demorar alguns minutos."</string>
     <string name="perm_c2dm_send_label">Enviar mensagens C2DM para outros aplicativos</string>
     <string name="perm_gtalk_svc_label">Trocar mensagens e receber notificações de sincronização de servidores do Google</string>
     <string name="perm_extended_access_label">Acesso estendido aos serviços do Google</string>
+    <string name="google_account_manager">Google Account Manager not fully implemented</string>
+    <string name="manage_google_account">Manage your Google account</string>
+    <string name="manage_google_account_summary">Manage your Google account information</string>
+    <string name="manage_yt_activities">Manage YouTube activities</string>
+    <string name="manage_yt_activities_summary">Manage YouTube activities such as watch or search history</string>
     <string name="service_name_checkin">Registro de dispositivos do Google</string>
     <string name="service_name_mcs">Cloud Messaging</string>
     <string name="service_status_enabled_short">Ligado</string>

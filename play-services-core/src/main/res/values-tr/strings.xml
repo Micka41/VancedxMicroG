@@ -40,6 +40,11 @@ Bunu bilerek yaptıysanız, Google'ın oturum açma sayfasına bağlanmak için 
     <string name="perm_c2dm_send_label">diğer uygulamalara C2DM mesajları gönderin</string>
     <string name="perm_gtalk_svc_label">Google sunucularından mesaj alışverişi yapın ve senkronizasyon bildirimleri alın</string>
     <string name="perm_extended_access_label">Google hizmetlerine erişim gerektirir</string>
+   <string name="google_account_manager">Google Account Manager not fully implemented</string>
+   <string name="manage_google_account">Manage your Google account</string>
+   <string name="manage_google_account_summary">Manage your Google account information</string>
+   <string name="manage_yt_activities">Manage YouTube activities</string>
+   <string name="manage_yt_activities_summary">Manage YouTube activities such as watch or search history</string>
     <string name="service_name_checkin">Google cihaz kaydı</string>
     <string name="service_name_mcs">Bulut ile mesajlaşma</string>
     <string name="service_status_enabled_short">Açık</string>

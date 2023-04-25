@@ -40,6 +40,11 @@
     <string name="perm_c2dm_send_label">C2DM 메세지를 다른 앱에 전달</string>
     <string name="perm_gtalk_svc_label">Google 서버에서 메시지 교환 및 동기화 알림 수신</string>
     <string name="perm_extended_access_label">Google 서비스에 대한 확장된 액세스</string>
+    <string name="google_account_manager">Google Account Manager not fully implemented</string>
+    <string name="manage_google_account">Manage your Google account</string>
+    <string name="manage_google_account_summary">Manage your Google account information</string>
+    <string name="manage_yt_activities">Manage YouTube activities</string>
+    <string name="manage_yt_activities_summary">Manage YouTube activities such as watch or search history</string>
     <string name="service_name_checkin">Google 기기 등록</string>
     <string name="service_name_mcs">클라우드 메시징</string>
     <string name="service_status_enabled_short">켜짐</string>

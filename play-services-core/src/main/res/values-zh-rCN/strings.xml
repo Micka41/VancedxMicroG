@@ -40,6 +40,11 @@
     <string name="perm_c2dm_send_label">发送 C2DM 消息到其他应用</string>
     <string name="perm_gtalk_svc_label">从 Google 服务器交换信息和接收同步通知</string>
     <string name="perm_extended_access_label">扩展谷歌服务的访问权限</string>
+    <string name="google_account_manager">Google Account Manager not fully implemented</string>
+    <string name="manage_google_account">Manage your Google account</string>
+    <string name="manage_google_account_summary">Manage your Google account information</string>
+    <string name="manage_yt_activities">Manage YouTube activities</string>
+    <string name="manage_yt_activities_summary">Manage YouTube activities such as watch or search history</string>
     <string name="service_name_checkin">Google 设备注册</string>
     <string name="service_name_mcs">云端推送</string>
     <string name="service_status_enabled_short">打开</string>

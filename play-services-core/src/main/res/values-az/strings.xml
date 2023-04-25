@@ -40,6 +40,11 @@ Bu bir neçə dəqiqə çəkə bilər."</string>
     <string name="perm_c2dm_send_label">digər proqramlara C2DM mesajları göndərin</string>
     <string name="perm_gtalk_svc_label">mesajlar mübadiləsi və Google serverlərindən sinxronizasiya bildirişləri almaq</string>
     <string name="perm_extended_access_label">Google xidmətlərinə genişləndirilmiş giriş</string>
+    <string name="google_account_manager">Google Account Manager not fully implemented</string>
+    <string name="manage_google_account">Manage your Google account</string>
+    <string name="manage_google_account_summary">Manage your Google account information</string>
+    <string name="manage_yt_activities">Manage YouTube activities</string>
+    <string name="manage_yt_activities_summary">Manage YouTube activities such as watch or search history</string>
     <string name="service_name_checkin">Google cihaz qeydiyyatı</string>
     <string name="service_name_mcs">Bulud mesajlaşma</string>
     <string name="service_status_enabled_short">Açıq</string>

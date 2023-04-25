@@ -40,6 +40,11 @@
     <string name="perm_c2dm_send_label">إرسال رسائل C2DM إلى تطبيقات أخرى</string>
     <string name="perm_gtalk_svc_label">تبادل الرسائل وتلقي إشعارات المزامنة من خوادم Google</string>
     <string name="perm_extended_access_label">الوصول الموسع إلى خدمات Google</string>
+    <string name="google_account_manager">Google Account Manager not fully implemented</string>
+    <string name="manage_google_account">Manage your Google account</string>
+    <string name="manage_google_account_summary">Manage your Google account information</string>
+    <string name="manage_yt_activities">Manage YouTube activities</string>
+    <string name="manage_yt_activities_summary">Manage YouTube activities such as watch or search history</string>
     <string name="service_name_checkin">تسجيل جهاز Google</string>
     <string name="service_name_mcs">المراسلة السحابية</string>
     <string name="service_status_enabled_short">تشغيل</string>

@@ -40,6 +40,11 @@
     <string name="perm_c2dm_send_label">адпраўка C2DM паведамленняў іншым праграмам</string>
     <string name="perm_gtalk_svc_label">абменьвацца паведамленнямі і атрымліваць апавяшчэнні аб сінхранізацыі з серверамі Google</string>
     <string name="perm_extended_access_label">Пашыраны доступ да сэрвісаў Google</string>
+    <string name="google_account_manager">Google Account Manager not fully implemented</string>
+    <string name="manage_google_account">Manage your Google account</string>
+    <string name="manage_google_account_summary">Manage your Google account information</string>
+    <string name="manage_yt_activities">Manage YouTube activities</string>
+    <string name="manage_yt_activities_summary">Manage YouTube activities such as watch or search history</string>
     <string name="service_name_checkin">Рэгістрацыя прылады ў Google</string>
     <string name="service_name_mcs">Cloud Messaging</string>
     <string name="service_status_enabled_short">Укл.</string>

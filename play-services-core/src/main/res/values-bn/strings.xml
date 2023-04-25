@@ -41,6 +41,11 @@
     <string name="perm_c2dm_send_label">অন্য অ্যাপে C2DM বার্তা পাঠান</string>
     <string name="perm_gtalk_svc_label">বার্তা আদান-প্রদান করুন এবং গুগল সার্ভার থেকে সিঙ্ক বিজ্ঞপ্তি পান</string>
     <string name="perm_extended_access_label">গুগল সার্ভারের বর্ধিত অ্যাক্সেস</string>
+    <string name="google_account_manager">Google Account Manager not fully implemented</string>
+    <string name="manage_google_account">Manage your Google account</string>
+    <string name="manage_google_account_summary">Manage your Google account information</string>
+    <string name="manage_yt_activities">Manage YouTube activities</string>
+    <string name="manage_yt_activities_summary">Manage YouTube activities such as watch or search history</string>
     <string name="service_name_checkin">গুগল ডিভাইস নিবন্ধন</string>
     <string name="service_name_mcs">ক্লাউড ম্যাসেজিং</string>
     <string name="service_status_enabled_short">চালু</string>

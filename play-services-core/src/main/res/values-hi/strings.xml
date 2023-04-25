@@ -38,6 +38,11 @@
     <string name="perm_c2dm_send_label">अन्य ऐप्स को C2DM संदेश भेजें</string>
     <string name="perm_gtalk_svc_label">संदेशों का आदान-प्रदान करें और Google सर्वर से समन्वयन सूचनाएं प्राप्त करें</string>
     <string name="perm_extended_access_label">Google सेवाओं तक विस्तारित पहुंच</string>
+    <string name="google_account_manager">Google Account Manager not fully implemented</string>
+    <string name="manage_google_account">Manage your Google account</string>
+    <string name="manage_google_account_summary">Manage your Google account information</string>
+    <string name="manage_yt_activities">Manage YouTube activities</string>
+    <string name="manage_yt_activities_summary">Manage YouTube activities such as watch or search history</string>
     <string name="service_name_checkin">गूगल डिवाइस पंजीकरण</string>
     <string name="service_name_mcs">क्लाउड मैसेजिंग</string>
     <string name="service_status_enabled_short">चालू करें</string>

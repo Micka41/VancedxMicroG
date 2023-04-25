@@ -40,6 +40,11 @@ Hãy thử lại sau."</string>
     <string name="perm_c2dm_send_label">gửi tin nhắn C2DM đến các ứng dụng khác</string>
     <string name="perm_gtalk_svc_label">trao đổi tin nhắn và nhận thông báo đồng bộ hóa từ máy chủ Google</string>
     <string name="perm_extended_access_label">Quyền truy cập mở rộng vào các dịch vụ của Google</string>
+    <string name="google_account_manager">Trình quản lý tài khoản Google chưa được triển khai đầy đủ</string>
+    <string name="manage_google_account">Quản lý tài khoản Google</string>
+    <string name="manage_google_account_summary">Quản lý thông tin tài khoản Google</string>
+    <string name="manage_yt_activities">Quản lý hoạt động trên YouTube</string>
+    <string name="manage_yt_activities_summary">Quản lý hoạt động trên YouTube, chẳng hạn như lịch sử xem hay tìm kiếm</string>
     <string name="service_name_checkin">Đăng ký thiết bị Google</string>
     <string name="service_name_mcs">Thông báo đẩy qua đám mây</string>
     <string name="service_status_enabled_short">Bật</string>

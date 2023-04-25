@@ -33,6 +33,11 @@
     <string name="perm_status_broadcast_label">ฟังการถ่ายทอดสถานะภายใน</string>
     <string name="perm_gtalk_svc_label">แลกเปลี่ยนข้อความและรับการแจ้งเตือนการซิงค์จากเซิร์ฟเวอร์ของ Google</string>
     <string name="perm_extended_access_label">ขยายการเข้าถึงบริการของ Google</string>
+   <string name="google_account_manager">Google Account Manager not fully implemented</string>
+   <string name="manage_google_account">Manage your Google account</string>
+   <string name="manage_google_account_summary">Manage your Google account information</string>
+   <string name="manage_yt_activities">Manage YouTube activities</string>
+   <string name="manage_yt_activities_summary">Manage YouTube activities such as watch or search history</string>
     <string name="service_name_checkin">การลงทะเบียนอุปกรณ์ Google</string>
     <string name="service_name_mcs">การส่งข้อความบนคลาวด์ </string>
     <string name="service_status_enabled_short">เปิด</string>

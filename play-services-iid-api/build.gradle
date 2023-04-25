@@ -30,6 +30,9 @@ android {
         targetCompatibility = 11
     }
     namespace 'org.microg.gms.iid.api'
+    buildFeatures {
+        aidl true
+    }
 }
 
 dependencies {

@@ -38,4 +38,7 @@ android {
         targetCompatibility = 11
     }
     namespace 'org.microg.gms.base.api'
+    buildFeatures {
+        aidl true
+    }
 }

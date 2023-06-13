@@ -19,7 +19,7 @@
 
     <plurals name="gcm_registered_apps_counter">
         <item quantity="one"><xliff:g example="1">%1$d</xliff:g> アプリを登録しました</item>
-        <item quantity="other"><xliff:g example="123">%1$d</xliff:g> 登録済みのアプリ</item>
+        <item quantity="other"><xliff:g example="123">%1$d</xliff:g> つの登録済みのアプリ</item>
     </plurals>
 
 </resources>

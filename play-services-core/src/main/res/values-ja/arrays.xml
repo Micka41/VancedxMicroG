@@ -20,12 +20,12 @@
     <string-array name="gcm_network_config_names" translatables="false">
         <item>@string/service_status_disabled_short</item>
         <item>@string/gcm_status_pref_default</item>
-        <item>Ping間隔: 2 分</item>
-        <item>Ping間隔: 5 分</item>
-        <item>Ping間隔: 10 分</item>
-        <item>Ping間隔: 15 分</item>
-        <item>Ping間隔: 20 分</item>
-        <item>Ping間隔: 30 分</item>
+        <item>更新間隔： 2 分</item>
+        <item>更新間隔： 5 分</item>
+        <item>更新間隔：10 分</item>
+        <item>更新間隔：15 分</item>
+        <item>更新間隔：20 分</item>
+        <item>更新間隔：30 分</item>
     </string-array>
 
 </resources>

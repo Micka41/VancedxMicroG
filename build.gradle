@@ -23,7 +23,7 @@ buildscript {
     ext.wireVersion = '4.5.5'
 
 
-    ext.androidBuildGradleVersion = '8.0.0'
+    ext.androidBuildGradleVersion = '7.4.2'
     ext.androidBuildVersionTools = '33.0.2'
 
     ext.androidMinSdk = 23
@@ -36,7 +36,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:8.0.2'
+        classpath 'com.android.tools.build:gradle:7.4.2'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
         classpath "com.squareup.wire:wire-gradle-plugin:$wireVersion"
     }

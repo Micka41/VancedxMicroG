@@ -36,14 +36,14 @@ buildscript {
     }
 
     dependencies {
-        classpath "com.android.tools.build:gradle:7.4.2"
+        classpath 'com.android.tools.build:gradle:8.0.2'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
         classpath "com.squareup.wire:wire-gradle-plugin:$wireVersion"
     }
 }
 
 
-def gmsVersion = "23.21.15"
+def gmsVersion = "23.22.55"
 def gmsVersionCode = Integer.parseInt(gmsVersion.replaceAll('\\.', ''))
 
 def ourVersionBase = "0.2.28"

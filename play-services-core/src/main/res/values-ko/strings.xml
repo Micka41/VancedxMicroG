@@ -114,4 +114,6 @@
     <string name="import_profile_name">사용자 지정 프로파일 불러오기</string>
     <string name="import_profile_summary">파일로부터 기기 프로파일 불러오기</string>
     <string name="serial_name">일련번호</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

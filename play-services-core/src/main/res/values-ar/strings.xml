@@ -114,4 +114,6 @@
     <string name="import_profile_name">استيراد ملف تعريف مخصص</string>
     <string name="import_profile_summary">استيراد مِلَفّ تعريف الجهاز من مِلَفّ</string>
     <string name="serial_name">الرقم التسلسلي</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

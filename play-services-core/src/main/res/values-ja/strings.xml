@@ -114,4 +114,6 @@
     <string name="import_profile_name">カスタム プロファイルを使用</string>
     <string name="import_profile_summary">ファイルからプロファイルをインポートします</string>
     <string name="serial_name">シリアル</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

@@ -112,4 +112,6 @@ Ini bisa berlangsung beberapa menit."</string>
     <string name="import_profile_name">Impor profil kustom</string>
     <string name="import_profile_summary">Impor profil perangkat dari file</string>
     <string name="serial_name">Serial</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

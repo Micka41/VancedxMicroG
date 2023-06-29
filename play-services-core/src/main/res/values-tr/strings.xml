@@ -114,4 +114,6 @@ Bunu bilerek yaptıysanız, Google'ın oturum açma sayfasına bağlanmak için 
     <string name="import_profile_name">Özel profil aktar</string>
     <string name="import_profile_summary">Cihaza dosyadan içe aktar</string>
     <string name="serial_name">Seri</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

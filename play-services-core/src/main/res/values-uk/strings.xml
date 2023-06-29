@@ -114,4 +114,6 @@
     <string name="import_profile_name">Імпорт користувацького профілю</string>
     <string name="import_profile_summary">Імпортувати профіль пристрою з файлу</string>
     <string name="serial_name">Срійне ім\'я</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

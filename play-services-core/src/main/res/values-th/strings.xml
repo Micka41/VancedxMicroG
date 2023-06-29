@@ -102,4 +102,6 @@
     <string name="profile_name_system">ระบบ: %s</string>
     <string name="import_profile_name">นำเข้าโปรไฟล์ที่กำหนดเอง</string>
     <string name="import_profile_summary">นำเข้าโปรไฟล์อุปกรณ์จากไฟล์ </string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

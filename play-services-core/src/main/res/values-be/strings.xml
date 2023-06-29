@@ -114,4 +114,6 @@
     <string name="import_profile_name">Імпарт карыстальніцкага профілю</string>
     <string name="import_profile_summary">Імпарт профілю прылады з файла</string>
     <string name="serial_name">Серыйны</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

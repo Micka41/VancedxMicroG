@@ -111,4 +111,6 @@ Questo potrà richiedere un paio di minuti"</string>
     <string name="import_profile_name">Importa profilo personalizzato</string>
     <string name="import_profile_summary">Importa profilo dispositivo da file</string>
     <string name="serial_name">Seriale</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

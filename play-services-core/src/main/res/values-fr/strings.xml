@@ -114,4 +114,6 @@ Cela peut prendre quelques minutes."</string>
     <string name="import_profile_name">Importer un profil personnalisé</string>
     <string name="import_profile_summary">Importer un profil personnalisé à partir d\'un fichier</string>
     <string name="serial_name">Série</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

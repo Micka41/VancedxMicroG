@@ -61,4 +61,6 @@
     <string name="checkin_last_registration">הרשמה אחרונה: <xliff:g example="Yesterday, 02:20 PM">%1$s</xliff:g></string>
     <string name="prefs_account">העדפות חשבון</string>
     <string name="prefs_account_privacy">נתונים אישיים &amp; פרטיות</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

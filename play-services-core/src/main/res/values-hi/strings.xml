@@ -113,4 +113,6 @@
     <string name="import_profile_name">कस्टम प्रोफ़ाइल आयात करें</string>
     <string name="import_profile_summary">फ़ाइल से डिवाइस प्रोफ़ाइल आयात करें</string>
     <string name="serial_name">क्रम संख्या</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

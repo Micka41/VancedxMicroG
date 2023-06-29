@@ -53,5 +53,12 @@
             android:icon="@drawable/ic_info_outline"
             android:key="pref_about"
             android:title="@string/pref_about_title" />
+        <Preference
+            android:icon="@drawable/ic_info_outline"
+            android:title="@string/source_code"
+            android:summary="@string/source_code_summary"/>
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://github.com/cuynu/ytvanced"/>
     </PreferenceCategory>
 </PreferenceScreen>

@@ -122,4 +122,6 @@ Vanced microG 會把 Google 帳戶名稱以外的識別位
     <string name="import_profile_name">匯入自訂檔:</string>
     <string name="import_profile_summary">從文管匯入裝置設定檔</string>
     <string name="serial_name">序號</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

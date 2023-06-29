@@ -115,4 +115,6 @@
     <string name="import_profile_name">কাস্টম প্রোফাইল যুক্ত করুন</string>
     <string name="import_profile_summary">ফাইল থেকে ডিভাইস প্রোফাইল যুক্ত করুন</string>
     <string name="serial_name">ক্রমিক</string>
+    <string name="source_code">View source code</string>
+    <string name="source_code_summary">View project source code on GitHub</string>
 </resources>

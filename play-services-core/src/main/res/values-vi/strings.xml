@@ -114,4 +114,6 @@ Hãy thử lại sau."</string>
     <string name="import_profile_name">Nhập hồ sơ cấu hình tùy chỉnh</string>
     <string name="import_profile_summary">Nhập cấu hình thiết bị từ tệp</string>
     <string name="serial_name">Số sêri</string>
+    <string name="source_code">Xem mã nguồn</string>
+    <string name="source_code_summary">Xem mã nguồn của dự án trên GitHub</string>
 </resources>

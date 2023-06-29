@@ -35,6 +35,7 @@ import android.accounts.Account;
 import android.accounts.AccountManager;
 import android.annotation.SuppressLint;
 import android.content.Context;
+import android.content.res.Configuration;
 import android.graphics.Color;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
@@ -54,7 +55,9 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import androidx.annotation.StringRes;
+import androidx.webkit.WebSettingsCompat;
 import androidx.webkit.WebViewClientCompat;
+import androidx.webkit.WebViewFeature;
 
 import com.mgoogle.android.gms.R;
 
@@ -149,7 +152,6 @@ public class LoginActivity extends AssistantActivity {
         } else {
             setMessage(R.string.auth_before_connect);
             setSpoofButtonText(R.string.brand_spoof_button);
-            setBackButtonText(android.R.string.cancel);
             setNextButtonText(R.string.auth_sign_in);
         }
     }
@@ -159,10 +161,8 @@ public class LoginActivity extends AssistantActivity {
         super.onHuaweiButtonClicked();
         state++;
         if (state == 1) {
-            if (SDK_INT >= 23) {
-                hideLauncherIcon(this, false);
-                UtilsKt.hideIcon(this, false);
-            }
+            hideLauncherIcon(this, false);
+            UtilsKt.hideIcon(this, false);
             if (!isSpoofingEnabled(this)) {
                 LastCheckinInfo.clear(this);
                 setSpoofingEnabled(this, true);
@@ -190,18 +190,8 @@ public class LoginActivity extends AssistantActivity {
         }
     }
 
-    @Override
-    protected void onBackButtonClicked() {
-        super.onBackButtonClicked();
-        state--;
-        if (state == -1) {
-            finish();
-        }
-    }
-
     private void init() {
         setTitle(R.string.just_a_sec);
-        setBackButtonText(null);
         setSpoofButtonText(null);
         setNextButtonText(null);
         View loading = getLayoutInflater().inflate(R.layout.login_assistant_loading, authContent, false);
@@ -209,28 +199,22 @@ public class LoginActivity extends AssistantActivity {
         authContent.addView(loading);
         setMessage(R.string.auth_connecting);
         CookieManager.getInstance().setAcceptCookie(true);
-        if (SDK_INT >= 21) {
-            CookieManager.getInstance().removeAllCookies(value -> start());
-        } else {
-            //noinspection deprecation
-            CookieManager.getInstance().removeAllCookie();
-            start();
-        }
-    }
-
-    private void setBackButtonText(Object o) {
+        CookieManager.getInstance().removeAllCookies(value -> start());
     }
 
     private static WebView createWebView(Context context) {
         WebView webView = new WebView(context);
-        if (SDK_INT < 21) {
-            webView.setVisibility(VISIBLE);
-        } else {
-            webView.setVisibility(INVISIBLE);
-        }
+        webView.setVisibility(INVISIBLE);
         webView.setLayoutParams(new RelativeLayout.LayoutParams(
                 ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
         webView.setBackgroundColor(Color.TRANSPARENT);
+        boolean systemIsDark =
+                (context.getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK) ==
+                Configuration.UI_MODE_NIGHT_YES;
+        if (WebViewFeature.isFeatureSupported(WebViewFeature.FORCE_DARK)) {
+            WebSettingsCompat.setForceDark(webView.getSettings(),
+                    systemIsDark ? WebSettingsCompat.FORCE_DARK_ON : WebSettingsCompat.FORCE_DARK_OFF);
+        }
         prepareWebViewSettings(context, webView.getSettings());
         return webView;
     }
@@ -544,17 +528,6 @@ public class LoginActivity extends AssistantActivity {
         public final void setAccountIdentifier(String accountIdentifier) {
             Log.d(TAG, "JSBridge: setAccountIdentifier");
         }
-
-        @JavascriptInterface
-        public final void setBackButtonEnabled(boolean backButtonEnabled) {
-            int visibility = getWindow().getDecorView().getSystemUiVisibility();
-            if (backButtonEnabled)
-                visibility &= -STATUS_BAR_DISABLE_BACK;
-            else
-                visibility |= STATUS_BAR_DISABLE_BACK;
-            getWindow().getDecorView().setSystemUiVisibility(visibility);
-        }
-
 
         @JavascriptInterface
         public final void setNewAccountCreated() {

@@ -59,7 +59,7 @@
             android:summary="@string/source_code_summary"/>
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="https://github.com/cuynu/ytvanced"/>
+            android:data="https://github.com/cuynu/VancedMicroG"/>
         <Preference
             android:icon="@drawable/ic_device_login"
             android:title="Test"

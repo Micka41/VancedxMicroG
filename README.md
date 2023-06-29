@@ -34,3 +34,4 @@ This fork tweaks MicroG to be usable by applications that require Google authent
 
 - Source Code for MicroG 0.2.25.224113 was provided by [@OxrxL](https://github.com/OxrxL)
 - [@shadow578](https://github.com/shadow578)'s commit used to apply `SPOOFED_PACKAGE_SIGNATURE`
+  

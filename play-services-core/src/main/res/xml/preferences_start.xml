@@ -60,5 +60,12 @@
         <intent
             android:action="android.intent.action.VIEW"
             android:data="https://github.com/cuynu/ytvanced"/>
+        <Preference
+            android:icon="@drawable/ic_device_login"
+            android:title="Test"
+            android:summary="test1"/>
+        <intent
+            android:targetClass="org.microg.gms.ui.GoogleMoreFragment$AsActivity"
+            android:targetPackage="com.mgoogle.android.gms" />
     </PreferenceCategory>
 </PreferenceScreen>

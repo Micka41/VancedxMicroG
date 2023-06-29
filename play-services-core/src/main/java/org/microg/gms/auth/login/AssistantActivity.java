@@ -103,4 +103,7 @@ public abstract class AssistantActivity extends Activity {
         DisplayMetrics displayMetrics = getResources().getDisplayMetrics();
         return Math.round(dp * (displayMetrics.xdpi / DisplayMetrics.DENSITY_DEFAULT));
     }
+
+    protected void onBackButtonClicked() {
+    }
 }

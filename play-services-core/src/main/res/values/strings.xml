@@ -16,8 +16,8 @@
   -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_name">Vanced microG</string>
-    <string name="gms_settings_summary">Setup Vanced microG.</string>
+    <string name="gms_settings_name">Vanced+ microG</string>
+    <string name="gms_settings_summary">Setup Vanced+ microG.</string>
 
     <string name="just_a_sec">Just a sec…</string>
     <string name="account_manager_title">Google Account Manager</string>
@@ -91,13 +91,13 @@ This can take a couple of minutes."</string>
     <string name="pref_gcm_switcher_title">Receive push notifications</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging is a push notification provider used by many third-party applications. To use it you must enable device registration.</string>
 
-    <string name="pref_about_title">About Vanced microG</string>
+    <string name="pref_about_title">About Vanced+ microG</string>
     <string name="hideLauncherIcon">Hide icon from launcher</string>
 
     <string name="brand_spoof_button">Huawei</string>
 
     <string name="pref_switcher_title">Register device</string>
-    <string name="pref_checkin_enable_summary">Registers your device to Google services and creates a unique device identifier. Vanced microG strips identifying bits other than your Google account name from registration data.</string>
+    <string name="pref_checkin_enable_summary">Registers your device to Google services and creates a unique device identifier. Vanced microG+ strips identifying bits other than your Google account name from registration data.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">Status</string>
 

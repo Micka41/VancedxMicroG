@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">إعداد Vanced microG.</string>
+    <string name="gms_settings_summary">إعداد Vanced+ microG.</string>
     <string name="just_a_sec">لحظة من فضلك…</string>
     <string name="account_manager_title">إدارة حساب Google</string>
     <string name="sorry">عذراً…</string>
@@ -73,11 +73,11 @@
     <string name="pref_add_account_summary">إضافة حساب Google</string>
     <string name="pref_gcm_switcher_title">تلقي الإشعارات</string>
     <string name="pref_gcm_enable_mcs_summary">المراسلة السحابية هي موفر الإشعارات المستخدم من قبل العديد من تطبيقات الطرف الثالث. لاستخدامها يجب عليك تمكين تسجيل الجهاز.</string>
-    <string name="pref_about_title">حول Vanced microG</string>
+    <string name="pref_about_title">حول +Vanced microG</string>
     <string name="hideLauncherIcon">إخفاء أيقونة التطبيق من درج التطبيقات</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">تسجيل الجهاز</string>
-    <string name="pref_checkin_enable_summary">يسجل جهازك في خِدْمَات Google وينشئ معرفًا فريدًا للجهاز. Vanced microG يحدد أجزاء أخرى غير اسم حسابك في Google من بيانات التسجيل.</string>
+    <string name="pref_checkin_enable_summary">يسجل جهازك في خِدْمَات Google وينشئ معرفًا فريدًا للجهاز. +Vanced microG يحدد أجزاء أخرى غير اسم حسابك في Google من بيانات التسجيل.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">الحالة</string>
     <string name="gcm_status_pref_default">الافتراضي</string>

@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Atur Vanced microG.</string>
+    <string name="gms_settings_summary">Atur Vanced+ microG.</string>
     <string name="just_a_sec">Tunggu sebentar…</string>
     <string name="account_manager_title">Pengelola akun Google</string>
     <string name="sorry">Maaf…</string>
@@ -71,11 +71,11 @@ Ini bisa berlangsung beberapa menit."</string>
     <string name="pref_add_account_summary">Tambahkan akun Google</string>
     <string name="pref_gcm_switcher_title">Terima notifikasi push</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging adalah penyedia notifikasi push yang digunakan pada banyak aplikasi pihak ketiga. Untuk menggunakannya anda harus mengaktifkan device registration.</string>
-    <string name="pref_about_title">Tentang Vanced microG</string>
+    <string name="pref_about_title">Tentang Vanced+ microG</string>
     <string name="hideLauncherIcon">Sembunyikan microG dari peluncur</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">Registrasi perangkat</string>
-    <string name="pref_checkin_enable_summary">Registrasi perangkat anda ke layanan Google dan buat pengenal perangkat unik. Vanced microG strips mengenal bits selain dari akun Google anda dari data registrasi.</string>
+    <string name="pref_checkin_enable_summary">Registrasi perangkat anda ke layanan Google dan buat pengenal perangkat unik. Vanced+ microG strips mengenal bits selain dari akun Google anda dari data registrasi.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">Status</string>
     <string name="gcm_status_pref_default">Default</string>

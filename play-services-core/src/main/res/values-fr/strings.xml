@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Paramètres Vanced microG.</string>
+    <string name="gms_settings_summary">Paramètres Vanced+ microG.</string>
     <string name="just_a_sec">Juste un instant…</string>
     <string name="account_manager_title">Gestionnaire de comptes Google</string>
     <string name="sorry">Désolé…</string>
@@ -73,11 +73,11 @@ Cela peut prendre quelques minutes."</string>
     <string name="pref_add_account_summary">Ajouter un compte Google</string>
     <string name="pref_gcm_switcher_title">Recevoir vos notifications push</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging est un fournisseur de notification push utilisé par de nombreuses applications tierces. Pour l\'utiliser, vous devez activer l\'enregistrement de l\'appareil.</string>
-    <string name="pref_about_title">À propos de Vanced microG</string>
+    <string name="pref_about_title">À propos de Vanced+ microG</string>
     <string name="hideLauncherIcon">Masquer l’icône depuis le lanceur</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">Enregistrer l\'appareil</string>
-    <string name="pref_checkin_enable_summary">Enregistre votre appareil aux services Google et crée un identifiant unique. Les bandes Vanced microG identifient les octets autres que le votre nom de compte Google depuis les données d\'enregistrement.</string>
+    <string name="pref_checkin_enable_summary">Enregistre votre appareil aux services Google et crée un identifiant unique. Les bandes Vanced+ microG identifient les octets autres que le votre nom de compte Google depuis les données d\'enregistrement.</string>
     <string name="pref_device_registration_android_id">Identifiant Android</string>
     <string name="pref_info_status">Status</string>
     <string name="gcm_status_pref_default">Par défaut</string>

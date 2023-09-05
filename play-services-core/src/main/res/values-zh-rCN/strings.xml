@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">设置 Vanced microG。</string>
+    <string name="gms_settings_summary">设置 Vanced+ microG。</string>
     <string name="just_a_sec">请稍等…</string>
     <string name="account_manager_title">Google 账号管理器</string>
     <string name="sorry">抱歉…</string>
@@ -73,11 +73,11 @@
     <string name="pref_add_account_summary">添加 Google 账号</string>
     <string name="pref_gcm_switcher_title">接收推送通知</string>
     <string name="pref_gcm_enable_mcs_summary">云端推送是第三方应用推送通知的渠道，要使用必须启用设备注册。</string>
-    <string name="pref_about_title">关于 Vanced microG</string>
+    <string name="pref_about_title">关于 Vanced+ microG</string>
     <string name="hideLauncherIcon">隐藏桌面图标</string>
     <string name="brand_spoof_button">华为</string>
     <string name="pref_switcher_title">注册设备</string>
-    <string name="pref_checkin_enable_summary">注册您的设备到 Google 服务并创建独特的设备标识，Vanced microG 从注册数据种识别您的 Google 账号 名称以外的项目。</string>
+    <string name="pref_checkin_enable_summary">注册您的设备到 Google 服务并创建独特的设备标识，Vanced+ microG 从注册数据种识别您的 Google 账号 名称以外的项目。</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">状态</string>
     <string name="gcm_status_pref_default">默认</string>

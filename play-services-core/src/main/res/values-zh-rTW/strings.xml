@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Vanced microG 設置</string>
+    <string name="gms_settings_summary">Vanced+ microG 設置</string>
     <string name="just_a_sec">請稍等一下…</string>
     <string name="account_manager_title">管理Google帳號</string>
     <string name="sorry">很抱歉…</string>
@@ -76,12 +76,12 @@
     <string name="pref_add_account_summary">新增 Google 帳戶</string>
     <string name="pref_gcm_switcher_title">接收應用的推播通知</string>
     <string name="pref_gcm_enable_mcs_summary">連網通知推播是第三方應用推送通知的方式, 若欲啟用, 您必須先註冊裝置.</string>
-    <string name="pref_about_title">關於 Vanced microG</string>
-    <string name="hideLauncherIcon">於桌面隱藏 Vanced microG</string>
+    <string name="pref_about_title">關於 Vanced+ microG</string>
+    <string name="hideLauncherIcon">於桌面隱藏 Vanced+ microG</string>
     <string name="brand_spoof_button">華為</string>
     <string name="pref_switcher_title">裝置註冊</string>
     <string name="pref_checkin_enable_summary">開啟後將產生一組屬於此裝置的識別碼 
-Vanced microG 會把 Google 帳戶名稱以外的識別位
+Vanced+ microG 會把 Google 帳戶名稱以外的識別位
 從註冊資訊中移除</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">狀態</string>

@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Configurazione di Vanced microG.</string>
+    <string name="gms_settings_summary">Configurazione di Vanced+ microG.</string>
     <string name="just_a_sec">Solo un secondo…</string>
     <string name="account_manager_title">Gestore Account Google</string>
     <string name="sorry">Ci scusiamo…</string>
@@ -70,11 +70,11 @@ Questo potrà richiedere un paio di minuti"</string>
     <string name="pref_add_account_summary">Aggiungi account Google</string>
     <string name="pref_gcm_switcher_title">Ricevi notifiche push</string>
     <string name="pref_gcm_enable_mcs_summary">Messaggistica Cloud è un fornitore di notifiche push presente in molte applicazioni di terze parti. Per utilizzarlo è necessario attivare la registrazione del dispositivo.</string>
-    <string name="pref_about_title">Informazioni su Vanced microG</string>
+    <string name="pref_about_title">Informazioni su Vanced+ microG</string>
     <string name="hideLauncherIcon">Nascondi microG dal launcher</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">Registra dispositivo</string>
-    <string name="pref_checkin_enable_summary">Registra il tuo dispositivo sui servizi Google e crea un identificatore univoco del dispositivo. Verranno rimossi dai Servizi Vanced microG alcuni bit utili per identificare i dati di registrazione, oltre al nome dell\'account Google.</string>
+    <string name="pref_checkin_enable_summary">Registra il tuo dispositivo sui servizi Google e crea un identificatore univoco del dispositivo. Verranno rimossi dai Servizi Vanced+ microG alcuni bit utili per identificare i dati di registrazione, oltre al nome dell\'account Google.</string>
     <string name="pref_device_registration_android_id">ID Android</string>
     <string name="pref_info_status">Stato</string>
     <string name="gcm_status_pref_default">Predefinito</string>

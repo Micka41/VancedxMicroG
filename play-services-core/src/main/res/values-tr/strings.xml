@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Vanced microG\'yi kurun.</string>
+    <string name="gms_settings_summary">Vanced+ microG\'yi kurun.</string>
     <string name="just_a_sec">Sadece bir saniye…</string>
     <string name="account_manager_title">Google Hesap Yöneticisi</string>
     <string name="sorry">Afedersiniz…</string>
@@ -73,11 +73,11 @@ Bunu bilerek yaptıysanız, Google'ın oturum açma sayfasına bağlanmak için 
     <string name="pref_add_account_summary">Yeni Google Hesabı</string>
     <string name="pref_gcm_switcher_title">Anlık bildirimler alın</string>
     <string name="pref_gcm_enable_mcs_summary">Bulut mesajlaşma, birçok üçüncü taraf uygulaması tarafından kullanılan bir anlık bildirim sağlayıcısıdır. Bunu kullanmak için cihaz kaydını etkinleştirmelisiniz.</string>
-    <string name="pref_about_title">Vanced microG hakkında</string>
+    <string name="pref_about_title">Vanced+ microG hakkında</string>
     <string name="hideLauncherIcon">Başlatıcı simgesini gizle</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">Cihazı kaydet</string>
-    <string name="pref_checkin_enable_summary">Cihazınızı Google hizmetlerine kaydeder ve benzersiz bir cihaz tanımlayıcısı oluşturur. Vanced microG, kayıt verilerinden Google hesap adınız dışındaki bitleri tanımlayan şeritler.</string>
+    <string name="pref_checkin_enable_summary">Cihazınızı Google hizmetlerine kaydeder ve benzersiz bir cihaz tanımlayıcısı oluşturur. Vanced+ microG, kayıt verilerinden Google hesap adınız dışındaki bitleri tanımlayan şeritler.</string>
     <string name="pref_device_registration_android_id">Android kimliği</string>
     <string name="pref_info_status">Durum</string>
     <string name="gcm_status_pref_default">Varsayılan</string>

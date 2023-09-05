@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Налаштувати Vanced microG.</string>
+    <string name="gms_settings_summary">Налаштувати Vanced+ microG.</string>
     <string name="just_a_sec">Секундочку…</string>
     <string name="account_manager_title">Менеджер облікових записів Google</string>
     <string name="sorry">Вибачте…</string>
@@ -73,11 +73,11 @@
     <string name="pref_add_account_summary">Додати Google аккаунт</string>
     <string name="pref_gcm_switcher_title">Отримувати push-сповіщення</string>
     <string name="pref_gcm_enable_mcs_summary">Хмарне повідомлення – це провайдер push-сповіщень, який використовується багатьма сторонніми програмами. Щоб скористатися нею, необхідно увімкнути реєстрацію пристрою.</string>
-    <string name="pref_about_title">Про Vanced microG</string>
+    <string name="pref_about_title">Про Vanced+ microG</string>
     <string name="hideLauncherIcon">Сховати значок з лаунчера</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">Зареєструвати пристрій</string>
-    <string name="pref_checkin_enable_summary">Реєструє ваш пристрій у службах Google і створює унікальний ідентифікатор пристрою. Vanced microG видаляє з реєстраційних даних біти, відмінні від імені вашого аккаунта Google.</string>
+    <string name="pref_checkin_enable_summary">Реєструє ваш пристрій у службах Google і створює унікальний ідентифікатор пристрою. Vanced+ microG видаляє з реєстраційних даних біти, відмінні від імені вашого аккаунта Google.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">Стан</string>
     <string name="gcm_status_pref_default">Типово</string>

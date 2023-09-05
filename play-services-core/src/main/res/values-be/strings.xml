@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Наладзіць Vanced microG.</string>
+    <string name="gms_settings_summary">Наладзіць Vanced+ microG.</string>
     <string name="just_a_sec">Секунду…</string>
     <string name="account_manager_title">Кіраванне уліковымі запісамі Google</string>
     <string name="sorry">Прабачце…</string>
@@ -73,11 +73,11 @@
     <string name="pref_add_account_summary">Дадаць уліковы запіс Google</string>
     <string name="pref_gcm_switcher_title">Атрымліваць push-апавяшчэнні</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging дазваляе атрымліваць апавяшчэнні ад многіх праграм. Каб выкарыстоўваць GCM, уключыце рэгістрацыю прылады ў Google.</string>
-    <string name="pref_about_title">Пра Vanced microG</string>
+    <string name="pref_about_title">Пра Vanced+ microG</string>
     <string name="hideLauncherIcon">Схаваць іконку microG з меню праграм</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">Зарэгістраваць прыладу</string>
-    <string name="pref_checkin_enable_summary">Рэгіструе вашу прыладу ў сэрвісах Google і стварае ўнікальны ідэнтыфікатар прылады. Vanced microG выкарыстоўвае толькі імя ўліковага запісу для рэгістрацыі.</string>
+    <string name="pref_checkin_enable_summary">Рэгіструе вашу прыладу ў сэрвісах Google і стварае ўнікальны ідэнтыфікатар прылады. Vanced+ microG выкарыстоўвае толькі імя ўліковага запісу для рэгістрацыі.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">Стан</string>
     <string name="gcm_status_pref_default">Прадвызначана</string>

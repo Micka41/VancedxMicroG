@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">การติดตั้ง Vanced microG.</string>
+    <string name="gms_settings_summary">การติดตั้ง Vanced+ microG.</string>
     <string name="just_a_sec">รอสักครู่…</string>
     <string name="account_manager_title">จัดการบัญชี Google</string>
     <string name="sorry">ขอโทษ...</string>
@@ -66,11 +66,11 @@
     <string name="pref_add_account_summary">เพิ่มบัญชี Google</string>
     <string name="pref_gcm_switcher_title">รับการแจ้งเตือนแบบพุช</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging เป็นผู้ให้บริการการแจ้งเตือนแบบพุชที่ใช้โดยแอปพลิเคชันบุคคลที่สามจำนวนมาก ในการใช้งาน คุณต้องเปิดใช้งานการลงทะเบียนอุปกรณ์ </string>
-    <string name="pref_about_title">เกี่ยวกับ Vanced microG</string>
+    <string name="pref_about_title">เกี่ยวกับ Vanced+ microG</string>
     <string name="hideLauncherIcon">ซ่อนไอคอนจากลั้นเชอร์</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">ลงทะเบียนอุปกรณ์ </string>
-    <string name="pref_checkin_enable_summary">ลงทะเบียนอุปกรณ์ของคุณกับบริการของ Google และสร้างตัวระบุอุปกรณ์ที่ไม่ซ้ำกัน. Vanced microG strips identifying bits อื่นที่ไม่ใช่ชื่อบัญชี Google ของคุณจากข้อมูลการลงทะเบียน.</string>
+    <string name="pref_checkin_enable_summary">ลงทะเบียนอุปกรณ์ของคุณกับบริการของ Google และสร้างตัวระบุอุปกรณ์ที่ไม่ซ้ำกัน. Vanced+ microG strips identifying bits อื่นที่ไม่ใช่ชื่อบัญชี Google ของคุณจากข้อมูลการลงทะเบียน.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">สถานะ:</string>
     <string name="gcm_status_pref_default">ค่าเริ่มต้น</string>

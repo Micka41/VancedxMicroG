@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Configurar Vanced microG.</string>
+    <string name="gms_settings_summary">Configurar Vanced+ microG.</string>
     <string name="just_a_sec">Solo un momento…</string>
     <string name="account_manager_title">Administrador de Cuentas Google</string>
     <string name="sorry">Disculpa…</string>
@@ -73,11 +73,11 @@ Esto puede tardar unos minutos."</string>
     <string name="pref_add_account_summary">Añadir cuenta de Google</string>
     <string name="pref_gcm_switcher_title">Recibir notificaciones push</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging es un proveedor de notificaciónes push usado por muchas aplicaciones de terceros. Pará usarlo tienes que activar registro de dispositivos.</string>
-    <string name="pref_about_title">Acerca de Vanced microG</string>
+    <string name="pref_about_title">Acerca de Vanced+ microG</string>
     <string name="hideLauncherIcon">Ocultar microG del lanzador</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">Registrar dispositivo</string>
-    <string name="pref_checkin_enable_summary">Registra tu dispositivo a los servicios de Google y crea un identificador de dispositivo único. Vanced microG remueve de los datos de registro partes de identificación a parte de él nombre de tu cuenta de Google.</string>
+    <string name="pref_checkin_enable_summary">Registra tu dispositivo a los servicios de Google y crea un identificador de dispositivo único. Vanced+ microG remueve de los datos de registro partes de identificación a parte de él nombre de tu cuenta de Google.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">Estado</string>
     <string name="gcm_status_pref_default">Predeterminado</string>

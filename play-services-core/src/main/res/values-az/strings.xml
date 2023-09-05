@@ -73,11 +73,11 @@ Bu bir neçə dəqiqə çəkə bilər."</string>
     <string name="pref_add_account_summary">Google hesabı əlavə et</string>
     <string name="pref_gcm_switcher_title">Push bildirişlərini alın</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging bir çox üçüncü tərəf proqramları tərəfindən istifadə edilən təkan bildiriş təminatçısıdır. Onu istifadə etmək üçün cihazın qeydiyyatını aktiv etməlisiniz.</string>
-    <string name="pref_about_title">MicroG haqqında</string>
+    <string name="pref_about_title">Vanced+ MicroG haqqında</string>
     <string name="hideLauncherIcon">Proqramın ikonunu başladıcıdan gizlət</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">Cihaz qeydiyyat et</string>
-    <string name="pref_checkin_enable_summary">Cihazınızı Google xidmətlərində qeydiyyatdan keçirir və unikal cihaz identifikatoru yaradır. microG qeydiyyat məlumatlarından Google hesabınızın adından başqa müəyyən bitləri ayırır.</string>
+    <string name="pref_checkin_enable_summary">Cihazınızı Google xidmətlərində qeydiyyatdan keçirir və unikal cihaz identifikatoru yaradır. Vanced+ microG qeydiyyat məlumatlarından Google hesabınızın adından başqa müəyyən bitləri ayırır.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">Status</string>
     <string name="gcm_status_pref_default">Defolt</string>

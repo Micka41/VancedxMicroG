@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">सेटअप Vanced microG.</string>
+    <string name="gms_settings_summary">सेटअप Vanced+ microG.</string>
     <string name="just_a_sec">सिर्फ एक सेकंड…</string>
     <string name="account_manager_title">गूगल खाता प्रबंधक</string>
     <string name="sorry">माफ़ करना</string>
@@ -71,12 +71,12 @@
     <string name="pref_add_account_summary">Google खाता जोड़ें</string>
     <string name="pref_gcm_switcher_title">पुश सूचनाएं प्राप्त करें</string>
     <string name="pref_gcm_enable_mcs_summary">क्लाउड मैसेजिंग एक पुश नोटिफिकेशन प्रदाता है जिसका उपयोग कई तृतीय-पक्ष एप्लिकेशन द्वारा किया जाता है। इसका उपयोग करने के लिए आपको डिवाइस पंजीकरण सक्षम करना होगा।</string>
-    <string name="pref_about_title">Vanced microG के बारे में</string>
+    <string name="pref_about_title">Vanced+ microG के बारे में</string>
     <string name="hideLauncherIcon">लॉन्चर से आइकन छुपाएं</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">रजिस्टर डिवाइस</string>
     <string name="pref_checkin_enable_summary">आपके उपकरण को Google सेवाओं में पंजीकृत करता है और एक अद्वितीय उपकरण पहचानकर्ता बनाता है। पंजीकरण डेटा से आपके Google खाते के नाम के अलावा अन्य बिट्स की पहचान करने वाली 
- Vanced microG स्ट्रिप्स।</string>
+ Vanced+ microG स्ट्रिप्स।</string>
     <string name="pref_device_registration_android_id">एंड्रॉयड ID</string>
     <string name="pref_info_status">स्थिति </string>
     <string name="gcm_status_pref_default">डिफॉल्ट</string>

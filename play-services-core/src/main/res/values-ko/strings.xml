@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Vanced microG를 설정합니다</string>
+    <string name="gms_settings_summary">Vanced+ microG를 설정합니다</string>
     <string name="just_a_sec">잠시만 기다려주십시오…</string>
     <string name="account_manager_title">Google 계정 관리자</string>
     <string name="sorry">죄송합니다...</string>
@@ -73,11 +73,11 @@
     <string name="pref_add_account_summary">Google 계정 추가</string>
     <string name="pref_gcm_switcher_title">푸시 알림 수신</string>
     <string name="pref_gcm_enable_mcs_summary">클라우드 메시징은 많은 타사 응용 프로그램에서 사용하는 푸시 알림 공급자입니다. 그것을 사용하려면 장치 등록을 활성화해야 합니다.</string>
-    <string name="pref_about_title">Vanced microG에 대하여</string>
+    <string name="pref_about_title">Vanced+ microG에 대하여</string>
     <string name="hideLauncherIcon">런처에서 아이콘 숨기기</string>
     <string name="brand_spoof_button">화웨이</string>
     <string name="pref_switcher_title">장치 등록</string>
-    <string name="pref_checkin_enable_summary">기기를 Google 서비스에 등록하고 고유한 기기 식별자를 만듭니다. Vanced microG는 등록 데이터에서 Google 계정 이름 이외의 식별 비트를 제거합니다.</string>
+    <string name="pref_checkin_enable_summary">기기를 Google 서비스에 등록하고 고유한 기기 식별자를 만듭니다. Vanced+ microG는 등록 데이터에서 Google 계정 이름 이외의 식별 비트를 제거합니다.</string>
     <string name="pref_device_registration_android_id">안드로이드 ID</string>
     <string name="pref_info_status">상태</string>
     <string name="gcm_status_pref_default">기본값</string>

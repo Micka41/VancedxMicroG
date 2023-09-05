@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Nastavení Vanced microG.</string>
+    <string name="gms_settings_summary">Nastavení Vanced+ microG.</string>
     <string name="just_a_sec">Počkejte chviličku…</string>
     <string name="account_manager_title">Google Account Manager</string>
     <string name="sorry">Promiňte…</string>
@@ -70,11 +70,11 @@ Tato akce může trvat několik minut."</string>
     <string name="pref_add_account_summary">Přidat účet Google</string>
     <string name="pref_gcm_switcher_title">Přijímat push oznámení</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging je poskytovatel push oznámení využívaný mnoha aplikacemi třetích stran. Chcete\u2011li jej použít, musíte povolit registraci zařízení.</string>
-    <string name="pref_about_title">O aplikaci Vanced microG</string>
+    <string name="pref_about_title">O aplikaci Vanced+ microG</string>
     <string name="hideLauncherIcon">Skrýt ikonu ze spouštěče</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">Registrovat zařízení</string>
-    <string name="pref_checkin_enable_summary">Zaregistruje vaše zařízení do služeb Google a vytvoří pro něj unikátní identifikátor. Vanced microG z dat nutných pro registraci odstraní všechny identifikační údaje kromě názvu vašeho účtu Google.</string>
+    <string name="pref_checkin_enable_summary">Zaregistruje vaše zařízení do služeb Google a vytvoří pro něj unikátní identifikátor. Vanced+ microG z dat nutných pro registraci odstraní všechny identifikační údaje kromě názvu vašeho účtu Google.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="pref_info_status">Stav</string>
     <string name="gcm_status_pref_default">Výchozí</string>

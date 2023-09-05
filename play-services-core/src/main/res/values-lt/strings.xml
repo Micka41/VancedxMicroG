@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Nustatyti Vanced microG.</string>
+    <string name="gms_settings_summary">Nustatyti Vanced+ microG.</string>
     <string name="just_a_sec">Šiek tiek palaukite…</string>
     <string name="account_manager_title">Google paskyros valdytojas</string>
     <string name="sorry">Atsiprašome…</string>
@@ -73,7 +73,7 @@ Tai gali užtrukti keletą minučių."</string>
     <string name="pref_add_account_summary">Pridėti Google paskyrą</string>
     <string name="pref_gcm_switcher_title">Gauti aktyvuosius pranešimus</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging yra tiesioginių pranešimų teikėjas, naudojamas daugelyje trečiųjų šalių programų. Norėdami jį naudoti, turite įjungti įrenginio registraciją.</string>
-    <string name="pref_about_title">Apie Vanced microG</string>
+    <string name="pref_about_title">Apie Vanced+ microG</string>
     <string name="hideLauncherIcon">Slėpti piktogramą paleidimo priemonėje</string>
     <string name="brand_spoof_button">Huawei</string>
     <string name="pref_switcher_title">Registruoti įrenginį</string>

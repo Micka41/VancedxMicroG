@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">Vanced microG সেটআপ।</string>
+    <string name="gms_settings_summary">Vanced+ microG সেটআপ।</string>
     <string name="just_a_sec">একটু অপেক্ষা করুন…</string>
     <string name="account_manager_title">গুগল একাউন্ট ম্যানেজার</string>
     <string name="sorry">দুঃখিত…</string>
@@ -74,11 +74,11 @@
     <string name="pref_add_account_summary">গুগল অ্যাকাউন্ট যুক্ত করুন</string>
     <string name="pref_gcm_switcher_title">পুশ বিজ্ঞপ্তি পান</string>
     <string name="pref_gcm_enable_mcs_summary">ক্লাউড ম্যাসেজিং হল পুশ বিজ্ঞপ্তি প্রদানকারী যা অনেক তৃতীয়-পক্ষ অ্যাপ্লিকেশনে ব্যবহার করা হয়। এটি ব্যবহার করতে অবশ্যই ডিভাইস রেজিস্ট্রেশন সচল করতে হবে।</string>
-    <string name="pref_about_title">Vanced microG সম্পর্কে</string>
+    <string name="pref_about_title">Vanced+ microG সম্পর্কে</string>
     <string name="hideLauncherIcon">লঞ্চার থেকে আইকন লুকান</string>
     <string name="brand_spoof_button">হুয়াওয়েই</string>
     <string name="pref_switcher_title">ডিভাইস নিবন্ধন করুন</string>
-    <string name="pref_checkin_enable_summary">আপনার ডিভাইসটি গুগল সার্ভিসে নিবন্ধন করে এবং একটি ইউনিক ডিভাইস আইডি তৈরি করে। Vanced microG আপনার নিবন্ধন ডেটা থেকে গুগল একাউন্টের নাম ব্যতিত আপনার সনাক্তকারী বিটকে বিচ্যুত করে।</string>
+    <string name="pref_checkin_enable_summary">আপনার ডিভাইসটি গুগল সার্ভিসে নিবন্ধন করে এবং একটি ইউনিক ডিভাইস আইডি তৈরি করে। Vanced+ microG আপনার নিবন্ধন ডেটা থেকে গুগল একাউন্টের নাম ব্যতিত আপনার সনাক্তকারী বিটকে বিচ্যুত করে।</string>
     <string name="pref_device_registration_android_id">অ্যান্ড্রয়েড আইডি</string>
     <string name="pref_info_status">অবস্থা</string>
     <string name="gcm_status_pref_default">পূর্ব-নির্ধারিত</string>

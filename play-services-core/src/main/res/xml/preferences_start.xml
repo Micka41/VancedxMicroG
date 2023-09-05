@@ -26,6 +26,13 @@
                 android:targetPackage="com.mgoogle.android.gms" />
         </Preference>
         <Preference
+            android:icon="@drawable/ic_add_account"
+            android:title="@string/account_manager_title">
+            <intent
+                android:targetClass="org.microg.gms.ui.AccountSettingsActivity"
+                android:targetPackage="com.mgoogle.android.gms" />
+        </Preference>
+        <Preference
             android:icon="@drawable/ic_device_login"
             android:key="pref_checkin"
             android:title="@string/service_name_checkin" />
@@ -53,17 +60,9 @@
             android:icon="@drawable/ic_info_outline"
             android:key="pref_about"
             android:title="@string/pref_about_title" />
-        <Preference
-            android:icon="@drawable/ic_info_outline"
-            android:title="@string/source_code"
-            android:summary="@string/source_code_summary"/>
-        <intent
-            android:action="android.intent.action.VIEW"
-            android:data="https://github.com/cuynu/VancedMicroG"/>
-        <Preference
-            android:icon="@drawable/ic_device_login"
-            android:title="Test"
-            android:summary="test1"/>
+        <Preference android:icon="@drawable/ic_info_outline" android:title="@string/source_code" android:summary="@string/source_code_summary">
+            <intent android:action="android.intent.action.VIEW" android:data="@string/url_link" />
+        </Preference>
         <intent
             android:targetClass="org.microg.gms.ui.GoogleMoreFragment$AsActivity"
             android:targetPackage="com.mgoogle.android.gms" />

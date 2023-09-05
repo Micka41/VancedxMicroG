@@ -137,4 +137,5 @@ This can take a couple of minutes."</string>
     <string name="import_profile_name">Import custom profile</string>
     <string name="import_profile_summary">Import device profile from file</string>
     <string name="serial_name">Serial</string>
+    <string name="url_link">https://github.com/cuynu/VancedxMicroG</string>
 </resources>

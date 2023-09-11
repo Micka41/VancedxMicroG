@@ -27,7 +27,8 @@
         </Preference>
         <Preference
             android:icon="@drawable/ic_add_account"
-            android:title="@string/account_manager_title">
+            android:title="@string/account_manager_title"
+            android:summary="@string/delete_account_summary">
             <intent
                 android:targetClass="org.microg.gms.ui.AccountSettingsActivity"
                 android:targetPackage="com.mgoogle.android.gms" />
@@ -44,7 +45,7 @@
             android:icon="@drawable/dots_horizontal"
             android:key="pref_google_more"
             android:title="@string/pref_more_settings"
-            app:isPreferenceVisible="false">
+            app:isPreferenceVisible="true">
             <intent
                 android:targetClass="org.microg.gms.ui.GoogleMoreFragment$AsActivity"
                 android:targetPackage="com.mgoogle.android.gms" />
@@ -58,11 +59,15 @@
     <PreferenceCategory android:layout="@layout/preference_category_no_label">
         <Preference
             android:icon="@drawable/ic_info_outline"
+            android:title="@string/source_code" android:summary="@string/source_code_summary">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="@string/url_link" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_info_outline"
             android:key="pref_about"
             android:title="@string/pref_about_title" />
-        <Preference android:icon="@drawable/ic_info_outline" android:title="@string/source_code" android:summary="@string/source_code_summary">
-            <intent android:action="android.intent.action.VIEW" android:data="@string/url_link" />
-        </Preference>
         <intent
             android:targetClass="org.microg.gms.ui.GoogleMoreFragment$AsActivity"
             android:targetPackage="com.mgoogle.android.gms" />

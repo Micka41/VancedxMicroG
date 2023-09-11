@@ -16,17 +16,44 @@
   -->
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/pref_more_settings">
+        <Preference
+            android:icon="@drawable/ic_device_login"
+            android:title="@string/check_for_updates"
+            android:summary="@string/check_for_vanced_microg_updates_on_github">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="@string/checkupdate_url" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_info_outline"
+            android:title="YouTube Vanced+ Telegram channel"
+            android:summary="Come here with us :)">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="@string/tg_groups" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/ic_info_outline"
+            android:title="YouTube Vanced+ Discord server"
+            android:summary="Come here with us :)">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="@string/discord" />
+        </Preference>
     <SwitchPreferenceCompat
         android:defaultValue="true"
-        android:enabled="false"
+        android:enabled="true"
         android:key="network_google_enabled"
-        android:summary="If disabled, all connections to Google servers usually done by microG will be denied. This overrides service specific settings."
-        android:title="Allow connecting to Google servers"/>
+        android:summary="@string/network_google_enabled_string"
+        android:title="@string/network_google_enabled_summary"/>
     <SwitchPreferenceCompat
         android:defaultValue="false"
         android:dependency="network_google_enabled"
-        android:enabled="false"
+        android:enabled="true"
         android:key="network_google_use_tor"
-        android:summary="Requires Orbot to be installed\nNot yet supported"
-        android:title="Connect to Google via Tor network"/>
+        android:summary="@string/network_google_use_tor"
+        android:title="@string/network_google_use_tor_summary"/>
+    </PreferenceCategory>
 </PreferenceScreen>

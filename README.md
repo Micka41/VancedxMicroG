@@ -4,10 +4,10 @@
 
 microG GmsCore is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available.
 
-This fork tweaks MicroG to be usable by applications that require Google authentication such as YouTube Vanced.
+This fork tweaks MicroG to be usable by applications that require Google authentication such as [YouTube Vanced+](https://github.com/cuynu/ytvancedx) or [ReVanced](https://github.com/revanced),[ReVanced Extended](https://github.com/inotia00)/[ReX](https://github.com/YT-Advanced).
 
 ## Warning!
-Vanced+ microG probably not work in ReVanced/RVX in future as recent changes from ReVanced/RVX to use with they specific MicroG called ReVanced MicroG
+Vanced+ microG probably not work in ReVanced/RVX in future as recent changes from ReVanced/RVX to use with they specific MicroG called ReVanced MicroG with different package name !
 
 ## Notable changes
 

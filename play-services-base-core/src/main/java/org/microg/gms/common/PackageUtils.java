@@ -107,14 +107,8 @@ public class PackageUtils {
         if (packageName.equals("com.google.android.apps.youtube.music") || packageName.contains("youtube.music")) {
             return "afb0fed5eeaebdd86f56a97742f4b6b33ef59875";
         }
-        if (packageName.equals("com.google.android.apps.youtube.unplugged") || packageName.contains("youtube.unplugged")) {
-            return "3a82b5ee26bc46bf68113d920e610cd090198d4a";
-        }
-        if (packageName.equals("com.google.android.youtube.tv") || packageName.contains("youtube.tv")) {
-            return "61226bdb57cc32c8a2a9ef71f7bc9548e95dcc0b";
-        }
-        if (packageName.equals("com.google.android.apps.photos") || packageName.contains("apps.photos") || packageName.equals("com.google.android.youtube") || packageName.contains("youtube")) {
-            return "24bb24c05e47e0aefa68a58a766179d9b613a600";
+        if (packageName.equals("com.google.android.youtube") || packageName.contains("youtube")) {
+            return "38918a453d07199354f8b19af05ec6562ced5788";
         }
         final PackageInfo info;
         try {

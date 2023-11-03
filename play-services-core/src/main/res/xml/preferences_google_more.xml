@@ -49,11 +49,14 @@
         android:summary="@string/network_google_enabled_string"
         android:title="@string/network_google_enabled_summary"/>
     <SwitchPreferenceCompat
-        android:defaultValue="false"
-        android:dependency="signature"
-        android:enabled="true"
-        android:key="fake_signature"
+        android:defaultValue="true"
+        android:enabled="false"
         android:summary="@string/fake_signature_summary"
         android:title="@string/fake_signature_title"/>
+    <Preference
+        android:selectable="false"
+        android:icon="@drawable/ic_info_outline"
+        android:title="@string/build_date"
+        android:summary="put your build date here :)"/>
     </PreferenceCategory>
 </PreferenceScreen>
